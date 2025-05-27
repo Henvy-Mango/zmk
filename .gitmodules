@@ -1,3 +1,4 @@
 [submodule "config"]
 	path = config
 	url = https://github.com/Henvy-Mango/zmk-config.git
+	branch = master
