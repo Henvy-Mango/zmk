@@ -5,7 +5,7 @@
     "ms-python.python",
     "ms-vscode.cpptools",
     "plorefice.devicetree",
-    "twxs.cmake",
+    "ms-vscode.cmake-tools",
     "unifiedjs.vscode-mdx"
   ]
 }
