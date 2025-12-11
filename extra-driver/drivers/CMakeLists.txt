@@ -1,0 +1,2 @@
+
+add_subdirectory_ifdef(CONFIG_AT42QT2120 sensor)

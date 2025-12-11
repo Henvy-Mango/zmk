@@ -124,4 +124,10 @@
         compatible = "zmk,soft-off-wakeup-sources";
         wakeup-sources = <&wakeup_scan>;
     };
+
+    sensors: sensors {
+        compatible = "zmk,keymap-sensors";
+        sensors = <&slider>;
+        triggers-per-rotation = <20>;
+    };
 };
